@@ -1,0 +1,3 @@
+Recently I was reading an article on how pickup trucks are accused of guzzling gas and how this is just a widely believed myth. Being the car newbie in a 5 mile radius in most cases most times, I had a discussion with a car enthusiast friend who couldnt but agree that heavy cars chug gas like an undergrad chugs alcohol at a weekend party.
+
+Having discussed the contents of the article(http://autotrends.org/2011/05/25/are-pickup-trucks-really-gas-guzzlers-myths-vs-reality/), I was all for finding out the truth and fighting the battle with the weapon of my choice-Data Science. I started with performing some exploratory data analysis for a surprising find.
